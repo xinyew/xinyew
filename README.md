@@ -1,22 +1,3 @@
-<Fearless>
+Xinye Wang is a curious Designer and Programmer with a solid background in Design Research and Programming Tools. His interest and skills in programming stem from his experience in applying Computational Techniques to explore new possibilities in Urban Systems. With a strong willingness to shape technologies for better urban lives, he intends to find a job as a software development engineer.
 
 
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @xinyew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-xinyew/xinyew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
